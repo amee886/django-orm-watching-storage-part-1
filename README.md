@@ -14,7 +14,8 @@ git clone https://github.com/amee886/django-orm-watching-storage-part-1.git cd d
  ```bash
    python -m pip install -r requirements.txt
 ```
-3. **Получите данные для базы данных**э
+3. **Получите данные для базы данных**
+  
  1. Получите данные для базы данных
  2. Создайте файл .env в корневом каталого проекта и добавьте туда эти данные
 
