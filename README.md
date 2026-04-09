@@ -10,7 +10,7 @@
 ```bash
 git clone https://github.com/amee886/django-orm-watching-storage-part-1.git cd django-orm-watching-storage-part-1
 ```
-2. **Установите зависимости
+2. **Установите зависимости**
  ```bash
    python -m pip install -r requirements.txt
 ```
